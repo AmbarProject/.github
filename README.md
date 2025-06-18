@@ -1,6 +1,16 @@
-# 🧠⚡ Ambar.Code — Sustainable Code, Smart Compilation
+![Logo do Projeto Ambar](profile/ambar_logo.png)
 
-Ambar.Code is a modern, statically-typed programming language and compiler designed to bridge the gap between **developer productivity** and **energy-efficient execution**. Built with advanced optimization strategies and adaptive compilation techniques, Ambar.Code empowers developers to write clean, high-performance code — with sustainability at its core.
+Team: Kauã Fernandes Souza de Melo, Matheus Araújo Matos de Aragão, Udiel Inácio de Oliveira Silva
+
+#### Etec of Carapicuíba
+
+# Ambar — Sustainable Code, Smart Compilation
+
+Ambar.Code is a modern, statically-typed ``programming language`` and ``compiler`` designed to bridge the gap between **developer productivity** and **energy-efficient execution**. 
+
+🔗 **Pitch do Projeto:** [See your pitch here](https://www.youtube.com/watch?v=3RXUyhMomso)
+
+Built with advanced optimization strategies and adaptive compilation techniques, Ambar.Code empowers developers to write clean, high-performance code — with sustainability at its core.
 
 ---
 
@@ -60,6 +70,8 @@ Ambar.Code aligns with the following Sustainable Development Goals (SDGs):
 
 /ambar-academy          # Our website for docs and accessible tutorials.
 
+/ambarapi               # Fast, efficient API layer for support tutorials
+
 /ambarc                 # The core of our language: the Ambar compiler.
 
 ```
@@ -88,6 +100,6 @@ MIT License © 2025 Ambar Project
 
 ## 🔗 Links
 
-- 🌐 [Official Website (coming soon)]  
+- 🌐 Official Website: https://ambar-home.vercel.app/  
 - 📚 [Documentation (in progress)]  
 <!-- - 🧪 [Benchmarks & Results](#) -->
